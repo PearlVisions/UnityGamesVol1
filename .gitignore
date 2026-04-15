@@ -97,3 +97,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Asset Store assets (do not upload)
+Assets/Martial Hero/
+Assets/Tiny RPG Enviroment/
+Assets/2D fantasy forest tileset/
